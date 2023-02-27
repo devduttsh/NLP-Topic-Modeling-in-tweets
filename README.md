@@ -13,4 +13,4 @@
   * Dirichlet hyperparameter alpha: Document-Topic Density
   * Dirichlet hyperparameter beta: Word-Topic Density
 
-** Note: This is a private project so if you are interested in knowing more, please ping me.**
+**Note: This is a private project so if you are interested in knowing more, please ping me.**
