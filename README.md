@@ -8,7 +8,7 @@
 * Filtered tweets with less than 5 tokens
 * Created Term Dictionary and Document Term Matrix
 * Computed coherence values for different topic counts
-* Hyperparameter Tuning:
+* Hyperparameter tuning:
   * Number of topics
   * Dirichlet hyperparameter alpha: Document-Topic Density
   * Dirichlet hyperparameter beta: Word-Topic Density
