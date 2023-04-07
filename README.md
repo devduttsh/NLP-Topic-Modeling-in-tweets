@@ -1,7 +1,7 @@
 # NLP-Topic Modeling from Twitter data (tweets)
 
 * Data Cleaning
-  * Removing hashtags, mentions, and links
+  * Removing hashtags, mentions and links
   * Cleaning punctuations, and numbers
   * Removing stopwords
   * Lemmatization of tokens
