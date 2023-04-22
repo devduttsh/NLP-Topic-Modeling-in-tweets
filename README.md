@@ -2,7 +2,7 @@
 
 * Data Cleaning
   * Removing hashtags, mentions and links
-  * Cleaning punctuations, and numbers
+  * Cleaning punctuations and numbers
   * Removing stopwords
   * Lemmatization of tokens
 * Filtered tweets with less than 5 tokens
